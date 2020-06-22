@@ -1,0 +1,690 @@
+PATHWAY: 3-amino-4,7-dihydroxy-coumarin biosynthesis INVOLVES: X1299	X32342	Actinomyces	Streptomyces	
+PATHWAY: allantoin degradation to glyoxylate I INVOLVES: X1107	X1670	Bacillus	Pseudomonas	Micrococcus	
+PATHWAY: superpathway of mycolyl-arabinogalactan-peptidoglycan complex biosynthesis INVOLVES: X53	X57	X32342	Bacillus	Mycobacterium	Mycoplasma	
+PATHWAY: icosapentaenoate biosynthesis II (6-desaturase, mammals) INVOLVES: X32342	human	
+PATHWAY: S-methyl-5'-thioadenosine degradation I INVOLVES: X1419	Bacillus	Arthrobacter	
+PATHWAY: octane oxidation INVOLVES: X32342	Pseudomonas	
+PATHWAY: peptidoglycan cross-bridge biosynthesis II (E. faecium) INVOLVES: X32342	Bacillus	Streptococcus	Enterococcus	Lactobacillus	
+PATHWAY: xylitol degradation INVOLVES: X48885	Bacillus	Enterobacter	Proteus	Enterobacteriaceae	
+PATHWAY: superpathway of cholesterol biosynthesis INVOLVES: X63	human	
+PATHWAY: putrescine degradation V INVOLVES: X1408	X1126	Bacillus	Pseudomonas	Arthrobacter	Micrococcus	
+PATHWAY: pyrimidine ribonucleosides salvage III INVOLVES: X514	Pseudomonas	
+PATHWAY: L-arginine degradation VIII (arginine oxidase pathway) INVOLVES: X1670	X1638	Bacillus	Pseudomonas	Arthrobacter	
+PATHWAY: dTDP-L-daunosamine biosynthesis INVOLVES: X528	X57	Streptomyces	
+PATHWAY: glycerol and glycerophosphodiester degradation INVOLVES: X43847	Deinococcus	Micrococcus	
+PATHWAY: bupropion degradation INVOLVES: X58	human	
+PATHWAY: methylglyoxal degradation I INVOLVES: X2127	Bacillus	Pseudomonas	human	Arthrobacter	
+PATHWAY: aminomethylphosphonate degradation INVOLVES: X32342	Bacillus	Pseudomonas	Rhizobium	Arthrobacter	
+PATHWAY: Kdo transfer to lipid IV<sub>A</sub> II INVOLVES: X2372	Bacillus	Mycobacterium	Haemophilus	
+PATHWAY: validamycin biosynthesis INVOLVES: X1437	X57	X528	Streptomyces	
+PATHWAY: homocarnosine biosynthesis INVOLVES: X59	human	
+PATHWAY: L-carnitine degradation III INVOLVES: X1303	Acinetobacter	Neisseria	Moraxella	Micrococcus	
+PATHWAY: aerobactin biosynthesis INVOLVES: X1564	X1301	Bacillus	Enterobacter	
+PATHWAY: allantoin degradation to ureidoglycolate II (ammonia producing) INVOLVES: X1107	Bacillus	Pseudomonas	Micrococcus	
+PATHWAY: peptidoglycan biosynthesis III (mycobacteria) INVOLVES: X57	X1126	Bacillus	Mycobacterium	Mycoplasma	
+PATHWAY: lipoate salvage II INVOLVES: X32342	Corynebacterium	
+PATHWAY: L-tryptophan degradation V (side chain pathway) INVOLVES: X27513	X54	Bacillus	Pseudomonas	
+PATHWAY: putrescine biosynthesis III INVOLVES: X1408	Bacillus	Pseudomonas	human	Micrococcus	
+PATHWAY: inosine-5'-phosphate biosynthesis I INVOLVES: X1643	X443	Bacillus	
+PATHWAY: sulfite oxidation V (SoeABC) INVOLVES: X46960	Bacillus	
+PATHWAY: acetate conversion to acetyl-CoA INVOLVES: X32342	human	Ralstonia	Alcaligenes	Flavobacterium	
+PATHWAY: L-threonine degradation II INVOLVES: X58	X1284	Achromobacter	Pseudomonas	Arthrobacter	Bacillus	Corynebacterium	
+PATHWAY: nopaline degradation INVOLVES: X528	X1638	Achromobacter	Pseudomonas	Bacillus	Alcaligenes	Rhizobium	
+PATHWAY: N-acetylglutaminylglutamine amide biosynthesis INVOLVES: X57	X53	Rhizobium	
+PATHWAY: phthiocerol biosynthesis INVOLVES: X32342	Bacillus	Mycobacterium	
+PATHWAY: cardiolipin biosynthesis I INVOLVES: X43847	X2372	Streptococcus	Staphylococcus	Micrococcus	
+PATHWAY: 4-hydroxybenzoate biosynthesis I (eukaryotes) INVOLVES: X528	X1299	X57	X32342	X21133	human	
+PATHWAY: bacimethrin and bacimethrin pyrophosphate biosynthesis INVOLVES: X32342	X2372	Bacillus	Pseudomonas	Streptomyces	Burkholderia	
+PATHWAY: phenolphthiocerol biosynthesis INVOLVES: X32342	X21133	Bacillus	Mycobacterium	Mycoplasma	
+PATHWAY: superpathway of neomycin biosynthesis INVOLVES: X53	X528	X57	Actinomyces	Streptomyces	
+PATHWAY: guaiacylglycerol-&beta;-guaiacyl ether degradation INVOLVES: X2127	X27727	Pseudomonas	
+PATHWAY: toluene degradation to benzoate INVOLVES: X15778	Pseudomonas	
+PATHWAY: indole-3-acetate biosynthesis V (bacteria and fungi) INVOLVES: X27513	Alcaligenes	
+PATHWAY: allantoin degradation IV (anaerobic) INVOLVES: X1107	Arthrobacter	Streptococcus	
+PATHWAY: L-histidine biosynthesis INVOLVES: X53	X57	X528	X59	Bacillus	Arthrobacter	Mycobacterium	Haemophilus	
+PATHWAY: guanosine nucleotides degradation III INVOLVES: X1604	X1573	X3147	human	
+PATHWAY: isopropylamine degradation INVOLVES: X1126	X57	Pseudomonas	
+PATHWAY: superpathway of cholesterol degradation I (cholesterol oxidase) INVOLVES: X63	X32342	Mycobacterium	Staphylococcus	Streptomyces	Bacillus	Corynebacterium	
+PATHWAY: L-tryptophan degradation XI (mammalian, via kynurenine) INVOLVES: X54	X1126	X528	X57	human	
+PATHWAY: pyrrolnitrin biosynthesis INVOLVES: X54	Burkholderia	Pseudomonas	Micrococcus	
+PATHWAY: 4-aminobenzoate biosynthesis INVOLVES: X53	X57	Actinomyces	Streptomyces	
+PATHWAY: alcaligin biosynthesis INVOLVES: X32342	X1408	Achromobacter	Haemophilus	Bacillus	Acinetobacter	Alcaligenes	Flavobacterium	
+PATHWAY: L-malate degradation II INVOLVES: X1303	Enterococcus	Bacillus	Streptococcus	Lactobacillus	Micrococcus	
+PATHWAY: naphthalene degradation (aerobic) INVOLVES: X1515	Pseudomonas	Ralstonia	
+PATHWAY: NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde INVOLVES: X1899	X53	X57	X32342	human	Actinomyces	Streptomyces	Actinobacteria	
+PATHWAY: indole-3-acetate biosynthesis III (bacteria) INVOLVES: X27513	X54	Achromobacter	Pseudomonas	Bacillus	Alcaligenes	Rhizobium	
+PATHWAY: hydrogen sulfide biosynthesis II (mammalian) INVOLVES: X1868	human	
+PATHWAY: L-phenylalanine degradation I (aerobic) INVOLVES: X64	X1299	human	
+PATHWAY: spermine biosynthesis INVOLVES: X485	X603	X1419	Pseudomonas	Arthrobacter	human	Bacillus	Micrococcus	
+PATHWAY: phenylacetate degradation I (aerobic) INVOLVES: X32342	Pseudomonas	
+PATHWAY: pseudouridine degradation INVOLVES: X33442	Achromobacter	Pseudomonas	Bacillus	Alcaligenes	Rhizobium	
+PATHWAY: thiamine salvage III INVOLVES: X32342	Bacillus	Staphylococcus	
+PATHWAY: nicotinate degradation II INVOLVES: X20676	X1643	Bacillus	
+PATHWAY: grixazone biosynthesis INVOLVES: X32342	X443	Actinomyces	Streptomyces	
+PATHWAY: L-citrulline biosynthesis INVOLVES: X1898	X2132	X528	X1638	X1670	X53	X57	human	
+PATHWAY: CMP-N-acetylneuraminate biosynthesis I (eukaryotes) INVOLVES: X32377	human	
+PATHWAY: plasmalogen biosynthesis INVOLVES: X1648	X1600	X15506	X34396	X2372	human	
+PATHWAY: rebeccamycin biosynthesis INVOLVES: X54	Streptomyces	
+PATHWAY: superpathway of UDP-<I>N-acetylglucosamine-derived O-antigen building blocks biosynthesis INVOLVES: X53	X528	X57	Bacillus	Pseudomonas	Micrococcus	
+PATHWAY: L-valine degradation I INVOLVES: X528	X1649	X57	Pseudomonas	Arthrobacter	Burkholderia	human	Streptomyces	Bacillus	Streptococcus	Actinomyces	Micrococcus	
+PATHWAY: (-)-camphor degradation INVOLVES: X32342	Pseudomonas	
+PATHWAY: biotin biosynthesis II INVOLVES: X1301	X1126	X32342	Bacillus	Arthrobacter	
+PATHWAY: glyphosate degradation III INVOLVES: X32342	Burkholderia	Pseudomonas	Bacillus	Rhizobium	
+PATHWAY: norspermidine biosynthesis INVOLVES: X528	X57	X443	Bacillus	Pseudomonas	
+PATHWAY: lacto-series glycosphingolipids biosynthesis INVOLVES: X2372	human	
+PATHWAY: blasticidin S biosynthesis INVOLVES: X2372	X1638	X60	Streptomyces	
+PATHWAY: superpathway of adenosine nucleotides de novo biosynthesis I INVOLVES: X1643	X32342	X443	Bacillus	human	
+PATHWAY: adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I INVOLVES: X53	X57	Bacillus	Propionibacterium	Pseudomonas	
+PATHWAY: aerobic respiration I (cytochrome c) INVOLVES: X1643	X1437	human	
+PATHWAY: 2-acetamido-4-amino-2,4,6-trideoxy-&alpha;-D-galactosyl-diphospho-ditrans,octacis-undecaprenol biosynthesis INVOLVES: X528	X57	Streptococcus	Micrococcus	
+PATHWAY: mandelate degradation to acetyl-CoA INVOLVES: X1437	X15778	Bacillus	Pseudomonas	Arthrobacter	
+PATHWAY: UDP-2,3-diacetamido-2,3-dideoxy-&alpha;-D-mannuronate biosynthesis INVOLVES: X528	X57	Pseudomonas	Haemophilus	
+PATHWAY: 2-methylcitrate cycle II INVOLVES: X1437	X32342	Burkholderia	Bacillus	Ralstonia	Alcaligenes	Micrococcus	Neisseria	
+PATHWAY: &gamma;-glutamyl cycle INVOLVES: X1494	X58	X2127	X1868	X57	human	
+PATHWAY: L-asparagine biosynthesis III (tRNA-dependent) INVOLVES: X512	X53	X57	X443	X32342	Deinococcus	Micrococcus	
+PATHWAY: L-lysine biosynthesis II INVOLVES: X1301	X57	X528	X443	Bacillus	Arthrobacter	
+PATHWAY: taurine biosynthesis INVOLVES: X2125	X590	X1868	human	
+PATHWAY: putrescine degradation III INVOLVES: X1408	human	
+PATHWAY: L-alanine degradation III INVOLVES: X1126	X528	X57	human	
+PATHWAY: trans-cinnamoyl-CoA biosynthesis INVOLVES: X32342	X64	Streptomyces	
+PATHWAY: dimycocerosyl triglycosyl phenolphthiocerol biosynthesis INVOLVES: X32342	Mycobacterium	
+PATHWAY: D-galactarate degradation II INVOLVES: X528	Achromobacter	Pseudomonas	Arthrobacter	Comamonas	Acinetobacter	Bacillus	Rhizobium	Alcaligenes	Delftia	
+PATHWAY: bile acid biosynthesis, neutral pathway INVOLVES: X2125	X58	X32342	X63	human	
+PATHWAY: L-methionine salvage from L-homocysteine INVOLVES: X3141	X5086	human	
+PATHWAY: autoinducer AI-1 biosynthesis INVOLVES: X1419	Achromobacter	Pseudomonas	Proteus	Enterobacter	Aeromonas	Bacillus	Rhizobium	Alcaligenes	Micrococcus	
+PATHWAY: L-arginine degradation X (arginine monooxygenase pathway) INVOLVES: X1638	X1670	Achromobacter	Arthrobacter	Mycobacterium	Streptomyces	Nocardioides	Actinomyces	Corynebacterium	
+PATHWAY: sucrose degradation IV (sucrose phosphorylase) INVOLVES: X1519	X48195	Bacillus	Actinomyces	Bifidobacterium	Lactobacillus	
+PATHWAY: mercaptosuccinate degradation INVOLVES: X1437	Variovorax	
+PATHWAY: L-ornithine degradation I (L-proline biosynthesis) INVOLVES: X1898	Achromobacter	Pseudomonas	Arthrobacter	Bacillus	Alcaligenes	Rhizobium	
+PATHWAY: thiosulfate oxidation III (multienzyme complex) INVOLVES: X46960	Methylobacterium	Pseudomonas	Micrococcus	
+PATHWAY: superpathway of cholesterol degradation II (cholesterol dehydrogenase) INVOLVES: X63	X32342	Bacillus	Mycobacterium	Streptomyces	
+PATHWAY: methylamine degradation II INVOLVES: X57	Pseudomonas	
+PATHWAY: folate polyglutamylation INVOLVES: X1648	X58	X57	Bacillus	Corynebacterium	Lactobacillus	
+PATHWAY: 1,4-dihydroxy-6-naphthoate biosynthesis I INVOLVES: X3127	Deinococcus	Streptococcus	Actinomyces	Streptomyces	
+PATHWAY: ketolysis INVOLVES: X1437	X542	human	
+PATHWAY: L-glutamate degradation VI (to pyruvate) INVOLVES: X57	Bacillus	Selenomonas	Proteus	
+PATHWAY: superpathway of D-myo-inositol (1,4,5)-trisphosphate metabolism INVOLVES: X1124	human	
+PATHWAY: L-lysine degradation II (L-pipecolate pathway) INVOLVES: X528	X1301	X57	X1444	human	
+PATHWAY: L-malate degradation I INVOLVES: X1303	X527	Bacillus	Lactobacillus	
+PATHWAY: L-ornithine degradation II (Stickland reaction) INVOLVES: X18319	X1898	X528	X57	X1493	Bacillus	Propionibacterium	Corynebacterium	Peptoclostridium	
+PATHWAY: 6-methylpretetramide biosynthesis INVOLVES: X53	X57	X32342	Streptomyces	
+PATHWAY: cholesterol degradation to androstenedione I (cholesterol oxidase) INVOLVES: X63	X32342	Mycobacterium	Staphylococcus	Streptomyces	Bacillus	Corynebacterium	
+PATHWAY: GDP-L-colitose biosynthesis INVOLVES: X57	X528	Bacillus	
+PATHWAY: ethylene biosynthesis II (microbes) INVOLVES: X57	X528	X1638	X1437	Pseudomonas	
+PATHWAY: bisucaberin biosynthesis INVOLVES: X32342	X1301	Moraxella	
+PATHWAY: L-citrulline degradation INVOLVES: X2132	Pseudomonas	Aeromonas	Mycoplasma	Bacillus	Streptococcus	Lactobacillus	Micrococcus	Flavobacterium	
+PATHWAY: L-isoleucine biosynthesis IV INVOLVES: X32342	X528	X1125	X57	Bacillus	
+PATHWAY: hypusine biosynthesis INVOLVES: X485	human	
+PATHWAY: purine nucleotides degradation II (aerobic) INVOLVES: X1573	X32342	X3147	X1604	X555	X1123	X3127	human	
+PATHWAY: fatty acid salvage INVOLVES: X32342	Pseudomonas	
+PATHWAY: sorbitol biosynthesis II INVOLVES: X46142	Achromobacter	Pseudomonas	
+PATHWAY: photosynthetic 3-hydroxybutanoate biosynthesis (engineered) INVOLVES: X542	Ralstonia	Alcaligenes	
+PATHWAY: cardiolipin biosynthesis II INVOLVES: X43847	X2372	human	
+PATHWAY: creatine biosynthesis INVOLVES: X27718	X1638	X58	human	
+PATHWAY: salicylate biosynthesis I INVOLVES: X1515	Bacillus	Pseudomonas	Mycobacterium	Micrococcus	
+PATHWAY: FR-900098 and FR-33289 antibiotics biosynthesis INVOLVES: X528	X1437	X2372	Streptomyces	
+PATHWAY: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I INVOLVES: X32342	Streptococcus	
+PATHWAY: terminal O-glycans residues modification (via type 2 precursor disaccharide) INVOLVES: X2372	human	
+PATHWAY: biotin biosynthesis from 8-amino-7-oxononanoate II INVOLVES: X1301	Bacillus	Arthrobacter	
+PATHWAY: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis INVOLVES: X57	X528	Aggregatibacter	Pseudomonas	Actinobacillus	Haemophilus	Bacillus	Micrococcus	
+PATHWAY: TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase) INVOLVES: X57	X528	X1437	X1303	X1643	X46173	X1564	Bacillus	Mycobacterium	
+PATHWAY: superpathway of purine nucleotide salvage INVOLVES: X1573	X1643	X443	X53	X57	X32342	X555	X1123	X3127	human	
+PATHWAY: superpathway of L-methionine salvage and degradation INVOLVES: X3141	X5086	X46960	X528	X57	X1868	X1648	X555	human	
+PATHWAY: UTP and CTP dephosphorylation I INVOLVES: X2372	X514	X606	X53	X57	human	
+PATHWAY: biosynthesis of Lewis epitopes (H. pylori) INVOLVES: X2372	Neisseria	Micrococcus	
+PATHWAY: superpathway of glucose and xylose degradation INVOLVES: X527	Bacillus	Lactobacillus	
+PATHWAY: UDP-yelosamine biosynthesis INVOLVES: X57	X528	Bacillus	
+PATHWAY: superpathway of purine nucleotides de novo biosynthesis II INVOLVES: X32342	X1643	X443	X58	X57	X53	Bacillus	
+PATHWAY: caffeine degradation V (bacteria, via trimethylurate) INVOLVES: X569	Pseudomonas	
+PATHWAY: L-tryptophan degradation I (via anthranilate) INVOLVES: X54	X1126	Pseudomonas	Burkholderia	Streptomyces	Comamonas	Haemophilus	Acinetobacter	Bacillus	Ralstonia	Delftia	Micrococcus	
+PATHWAY: nicotine degradation II (pyrrolidine pathway) INVOLVES: X1437	X1643	X20676	Pseudomonas	
+PATHWAY: aminopropanol phosphate biosynthesis I INVOLVES: X1284	Bacillus	Pseudomonas	
+PATHWAY: superpathway of thiamine diphosphate biosynthesis II INVOLVES: X1868	X1126	X32342	X58	Bacillus	
+PATHWAY: guadinomine B biosynthesis INVOLVES: X1638	X58	X1648	X32342	X1437	X57	X528	Streptomyces	
+PATHWAY: L-alanine fermentation to propanoate and acetate INVOLVES: X1126	X528	X57	Megasphaera	Peptostreptococcus	
+PATHWAY: pyoverdine I biosynthesis INVOLVES: X528	X1284	X1301	X1638	X1648	X1299	X57	X32342	Pseudomonas	
+PATHWAY: sulfate reduction V (dissimilatory, to thiosulfate) INVOLVES: X32342	X46960	Bacillus	
+PATHWAY: phosphatidylethanolamine biosynthesis III INVOLVES: X1648	human	
+PATHWAY: sulfate reduction II (assimilatory) INVOLVES: X27727	X32342	X2127	X46960	Bacillus	
+PATHWAY: L-glutamate degradation VII (to butanoate) INVOLVES: X57	Bacillus	Proteus	
+PATHWAY: nicotine degradation V INVOLVES: X38661	X553	human	
+PATHWAY: L-leucine degradation II INVOLVES: X60	X528	X57	Bacillus	
+PATHWAY: benzoate degradation II (aerobic and anaerobic) INVOLVES: X15778	X32342	Bacillus	
+PATHWAY: cholesterol biosynthesis III (via desmosterol) INVOLVES: X63	human	
+PATHWAY: creatinine degradation I INVOLVES: X58	X1670	X513	X27718	Achromobacter	Pseudomonas	Arthrobacter	Bacillus	Alcaligenes	
+PATHWAY: 1,4-dihydroxy-2-naphthoate biosynthesis INVOLVES: X528	X32342	Arthrobacter	Enterococcus	Mycobacterium	Bacillus	Streptococcus	Micrococcus	
+PATHWAY: poly(ribitol phosphate) wall teichoic acid biosynthesis I (B. subtilis) INVOLVES: X32342	X43847	X2372	Bacillus	
+PATHWAY: superpathway of polyamine biosynthesis II INVOLVES: X603	X1638	X1408	X485	X1419	Bacillus	Pseudomonas	human	Micrococcus	
+PATHWAY: methylaspartate cycle INVOLVES: X1643	X1437	X57	X528	X1564	X46173	X1303	Flavobacterium	
+PATHWAY: glutaminyl-tRNA<sup>gln</sup> biosynthesis via transamidation INVOLVES: X53	X57	X32342	Bacillus	Arthrobacter	Deinococcus	Micrococcus	
+PATHWAY: L-cysteine biosynthesis III (from L-homocysteine) INVOLVES: X1868	X1648	Bacillus	Streptomyces	Lactobacillus	
+PATHWAY: superpathway of pyrimidine ribonucleosides degradation INVOLVES: X514	X606	X55	Bacillus	human	
+PATHWAY: D-sorbitol degradation I INVOLVES: X48195	X46142	Bacillus	
+PATHWAY: gluconeogenesis III INVOLVES: X1303	human	
+PATHWAY: L-threonine degradation III (to methylglyoxal) INVOLVES: X1284	Achromobacter	Pseudomonas	Arthrobacter	Mycobacterium	Enterobacter	Enterobacteriaceae	Bacillus	Corynebacterium	
+PATHWAY: lincomycin biosynthesis INVOLVES: X1299	Streptomyces	
+PATHWAY: UMP biosynthesis II INVOLVES: X1643	X1437	X1505	X443	X53	X57	Streptococcus	Lactobacillus	
+PATHWAY: L-arabinose degradation III INVOLVES: X528	Pseudomonas	Pelomonas	Rhizobium	
+PATHWAY: bile acids degradation INVOLVES: X32342	X58	X2125	Bacillus	Ruminococcus	Bifidobacterium	Eggerthella	
+PATHWAY: L-tyrosine degradation IV (to 4-methylphenol) INVOLVES: X528	X1299	X57	Peptoclostridium	
+PATHWAY: thiamine diphosphate biosynthesis III (Staphylococcus) INVOLVES: X32342	Ruminococcus	Staphylococcus	Dorea	
+PATHWAY: L-proline biosynthesis I INVOLVES: X57	X1898	human	
+PATHWAY: L-lysine fermentation to acetate and butanoate INVOLVES: X1301	Bacillus	Fusobacterium	Corynebacterium	Porphyromonas	
+PATHWAY: kanosamine biosynthesis I INVOLVES: X53	Bacillus	Streptomyces	
+PATHWAY: superpathway of menaquinol-7 biosynthesis INVOLVES: X528	X32342	Exiguobacterium	Prevotella	Arthrobacter	Staphylococcus	Bacillus	Nocardioides	Streptococcus	Lactobacillus	Micrococcus	Microbacterium	Corynebacterium	Flavobacterium	
+PATHWAY: sphingosine and sphingosine-1-phosphate metabolism INVOLVES: X1600	X17747	human	
+PATHWAY: homotaurine degradation INVOLVES: X528	X57	Ralstonia	Alcaligenes	
+PATHWAY: dimycocerosyl phthiocerol biosynthesis INVOLVES: X32342	Mycobacterium	
+PATHWAY: UTP and CTP de novo biosynthesis INVOLVES: X53	X57	human	
+PATHWAY: phosphatidylcholine biosynthesis VI INVOLVES: X15506	X2372	Achromobacter	Pseudomonas	Bacillus	Alcaligenes	Rhizobium	Micrococcus	
+PATHWAY: stearate biosynthesis I (animals and fungi) INVOLVES: X32342	human	
+PATHWAY: adenosylcobalamin biosynthesis from cobyrinate a,c-diamide II INVOLVES: X53	X57	Pseudomonas	Rhizobium	
+PATHWAY: L-lysine degradation I INVOLVES: X1301	Pseudomonas	Anaerovibrio	Staphylococcus	Bacillus	Selenomonas	Micrococcus	Veillonella	
+PATHWAY: methyl ketone biosynthesis (engineered) INVOLVES: X32342	Burkholderia	Micrococcus	
+PATHWAY: guanosine ribonucleotides de novo biosynthesis INVOLVES: X53	X57	X32342	Bacillus	human	
+PATHWAY: biotin-carboxyl carrier protein assembly INVOLVES: X32342	Pseudomonas	Arthrobacter	Mycobacterium	Mycoplasma	Bacillus	Propionibacterium	Micrococcus	Microbacterium	Corynebacterium	
+PATHWAY: 2,2'-dihydroxybiphenyl degradation INVOLVES: X1515	Pseudomonas	
+PATHWAY: cholesterol biosynthesis I INVOLVES: X63	human	
+PATHWAY: prodigiosin biosynthesis INVOLVES: X1648	X1898	X32342	Bacillus	Enterobacter	Enterobacteriaceae	
+PATHWAY: icosapentaenoate biosynthesis III (8-desaturase, mammals) INVOLVES: X32342	human	
+PATHWAY: achromobactin biosynthesis INVOLVES: X528	X1648	X1564	X32342	Pseudomonas	
+PATHWAY: spermine and spermidine degradation I INVOLVES: X1408	X485	X603	human	
+PATHWAY: vitamin B<sub>6</sub> degradation INVOLVES: X1126	Pseudomonas	Rhizobium	Mesorhizobium	
+PATHWAY: aromatic compounds degradation via &beta;-ketoadipate INVOLVES: X1437	Bacillus	Pseudomonas	Arthrobacter	
+PATHWAY: L-tyrosine degradation II INVOLVES: X528	X1299	X57	Achromobacter	Arthrobacter	Burkholderia	Mycobacterium	Bacillus	Micrococcus	Corynebacterium	
+PATHWAY: L-serine biosynthesis INVOLVES: X1648	X528	X57	human	
+PATHWAY: glycine betaine degradation II (mammalian) INVOLVES: X1648	X58	X3141	X5086	human	
+PATHWAY: &kappa;-carrageenan degradation INVOLVES: X46960	Pseudomonas	Flavobacterium	
+PATHWAY: desferrioxamine E biosynthesis INVOLVES: X1301	X32342	Streptomyces	
+PATHWAY: leucine degradation IV INVOLVES: X528	X60	X57	Peptoclostridium	
+PATHWAY: arginomycin biosynthesis INVOLVES: X2372	X60	Streptomyces	
+PATHWAY: arachidonate biosynthesis III (6-desaturase, mammals) INVOLVES: X32342	human	
+PATHWAY: biosynthesis of ABH and Lewis epitopes from type 2 precursor disaccharide INVOLVES: X2372	human	
+PATHWAY: pregnenolone biosynthesis INVOLVES: X63	human	
+PATHWAY: mucin core 1 and core 2 O-glycosylation INVOLVES: X2372	human	
+PATHWAY: adenosylcobalamin biosynthesis I (anaerobic) INVOLVES: X1284	X32342	X53	X57	Bacillus	Propionibacterium	
+PATHWAY: guanine and guanosine salvage III INVOLVES: X1573	Mycoplasma	
+PATHWAY: 2-heptyl-3-hydroxy-4(1H)-quinolone biosynthesis INVOLVES: X32342	X53	X57	Bacillus	Pseudomonas	Micrococcus	
+PATHWAY: bacillithiol biosynthesis INVOLVES: X1303	X1868	Bacillus	
+PATHWAY: shinorine biosynthesis INVOLVES: X1648	X58	X32342	Pseudonocardia	
+PATHWAY: pyruvate fermentation to acetate and lactate I INVOLVES: X527	Mycoplasma	
+PATHWAY: phenazine-1-carboxylate biosynthesis INVOLVES: X53	X57	Burkholderia	Pseudomonas	Bacillus	Micrococcus	
+PATHWAY: acetone degradation II (to acetoacetate) INVOLVES: X32342	Staphylococcus	Flavobacterium	
+PATHWAY: tetrahydromethanopterin biosynthesis INVOLVES: X1643	X443	X21133	X32342	Bacillus	Methylobacterium	Pseudomonas	Flavobacterium	
+PATHWAY: &gamma;-linolenate biosynthesis II (animals) INVOLVES: X32342	human	
+PATHWAY: glutathione-glutaredoxin redox reactions INVOLVES: X2127	X27727	human	
+PATHWAY: actinomycin D biosynthesis INVOLVES: X1284	X32342	X58	X1898	X1649	Actinomyces	Streptomyces	
+PATHWAY: poly(ribitol phosphate) wall teichoic acid biosynthesis II (S. aureus) INVOLVES: X32342	X43847	X2372	Streptococcus	Staphylococcus	Micrococcus	
+PATHWAY: protein S-nitrosylation and denitrosylation INVOLVES: X27727	X2127	human	
+PATHWAY: ethylene biosynthesis V (engineered) INVOLVES: X528	X46173	X1564	Pseudomonas	
+PATHWAY: superpathway of sulfide oxidation (phototrophic sulfur bacteria) INVOLVES: X46960	X32342	Bacillus	
+PATHWAY: L-tyrosine biosynthesis IV INVOLVES: X64	X1299	human	
+PATHWAY: creatinine degradation III INVOLVES: X1670	X513	Bacillus	Pseudomonas	Achromobacter	Alcaligenes	
+PATHWAY: L-lysine biosynthesis I INVOLVES: X443	X528	X57	X1437	X1301	Achromobacter	Arthrobacter	Mycobacterium	Haemophilus	Bacillus	Micrococcus	Microbacterium	Corynebacterium	
+PATHWAY: methyl tert-butyl ether degradation INVOLVES: X32342	Mycobacterium	Hydrogenophaga	
+PATHWAY: superpathway of quinolone and alkylquinolone biosynthesis INVOLVES: X32342	X53	X57	Burkholderia	Pseudomonas	Bacillus	Micrococcus	
+PATHWAY: protein ubiquitylation INVOLVES: X32342	human	
+PATHWAY: sucrose degradation VII (sucrose 3-dehydrogenase) INVOLVES: X48195	X1519	Achromobacter	Pseudomonas	Bacillus	Alcaligenes	Rhizobium	
+PATHWAY: violacein biosynthesis INVOLVES: X54	Bacillus	Pseudomonas	
+PATHWAY: L-tryptophan degradation X (mammalian, via tryptamine) INVOLVES: X27513	X54	human	
+PATHWAY: 2-methylpropene degradation INVOLVES: X32342	Mycobacterium	
+PATHWAY: heme biosynthesis I (aerobic) INVOLVES: X41754	Achromobacter	Pseudomonas	human	Bacillus	Alcaligenes	Rhizobium	
+PATHWAY: 4-aminobutanoate degradation I INVOLVES: X1437	X528	X57	Pseudomonas	Arthrobacter	human	Streptomyces	Bacillus	Actinomyces	Micrococcus	
+PATHWAY: L-methionine salvage cycle I (bacteria and plants) INVOLVES: X528	X53	X1408	X485	X1419	Bacillus	Arthrobacter	
+PATHWAY: long chain fatty acid ester synthesis (engineered) INVOLVES: X32342	Acinetobacter	Pseudomonas	Achromobacter	
+PATHWAY: aminopropanol phosphate biosynthesis II INVOLVES: X1284	Pseudomonas	
+PATHWAY: UDP-N,N'-diacetylbacillosamine biosynthesis INVOLVES: X528	X57	Neisseria	
+PATHWAY: 4-hydroxy-2(1H)-quinolone biosynthesis INVOLVES: X32342	X53	X57	Burkholderia	Pseudomonas	Bacillus	Micrococcus	
+PATHWAY: vancomycin resistance II INVOLVES: X1648	Enterococcus	Streptococcus	Micrococcus	
+PATHWAY: superpathway of C1 compounds oxidation to CO<sub>2</sub> INVOLVES: X2127	Methylobacterium	Pseudomonas	Micrococcus	
+PATHWAY: L-asparagine degradation III (mammalian) INVOLVES: X528	X57	X512	X443	human	
+PATHWAY: dermatan sulfate degradation I (bacterial) INVOLVES: X46960	Proteus	Pedobacter	Bacillus	Streptococcus	Flavobacterium	
+PATHWAY: choline degradation II INVOLVES: X15506	X3141	Arthrobacter	Mycobacterium	Corynebacterium	Achromobacter	
+PATHWAY: rhizocticin A and B biosynthesis INVOLVES: X1649	X1638	Bacillus	
+PATHWAY: paromamine biosynthesis II INVOLVES: X53	Bacillus	
+PATHWAY: jadomycin biosynthesis INVOLVES: X1125	Streptomyces	
+PATHWAY: glycine betaine biosynthesis II (Gram-positive bacteria) INVOLVES: X3141	X15506	Bacillus	Arthrobacter	
+PATHWAY: superpathway of menaquinol-8 biosynthesis I INVOLVES: X528	X32342	Pseudomonas	Deinococcus	Nesterenkonia	Proteus	Enterococcus	Arthrobacter	Burkholderia	Mycobacterium	Staphylococcus	Enterobacter	Aeromonas	Enterobacteriaceae	Bacillus	Streptococcus	Lactobacillus	Micrococcus	Microbacterium	Corynebacterium	Planococcus	Flavobacterium	
+PATHWAY: glutathione-peroxide redox reactions INVOLVES: X2127	X27727	human	
+PATHWAY: L-cysteine biosynthesis I INVOLVES: X1868	X1648	X37076	Bacillus	
+PATHWAY: L-isoleucine degradation I INVOLVES: X528	X1125	X57	Pseudomonas	Arthrobacter	human	Streptomyces	Bacillus	Micrococcus	
+PATHWAY: 8-amino-7-oxononanoate biosynthesis III INVOLVES: X1126	X32342	Bacillus	Arthrobacter	Pseudomonas	
+PATHWAY: S-methyl-5'-thioadenosine degradation II INVOLVES: X1419	human	
+PATHWAY: spermidine biosynthesis I INVOLVES: X1408	X485	X1419	Bacillus	Arthrobacter	human	
+PATHWAY: dTDP-&beta;-L-4-epi-vancosamine biosynthesis INVOLVES: X528	X57	Streptomyces	
+PATHWAY: L-histidine degradation II INVOLVES: X57	X59	Bacillus	Pseudomonas	Arthrobacter	Micrococcus	
+PATHWAY: saframycin A biosynthesis INVOLVES: X58	X1126	X1299	X32342	Actinomyces	Streptomyces	
+PATHWAY: fatty acid &beta;-oxidation I INVOLVES: X32342	human	
+PATHWAY: L-tryptophan degradation IV (via indole-3-lactate) INVOLVES: X54	X528	X57	Bacillus	Lactobacillus	
+PATHWAY: ethylene biosynthesis IV (engineered) INVOLVES: X1638	X1437	X57	X528	Pseudomonas	
+PATHWAY: gentisate degradation II INVOLVES: X20676	Pseudomonas	
+PATHWAY: superpathway of taurine degradation INVOLVES: X57	X528	X1437	X2125	X1126	Achromobacter	
+PATHWAY: toluene degradation IV (aerobic) (via catechol) INVOLVES: X15778	Bacillus	Pseudomonas	Arthrobacter	
+PATHWAY: desferrioxamine B biosynthesis INVOLVES: X32342	X1301	Streptomyces	
+PATHWAY: sulfite oxidation IV INVOLVES: X46960	human	
+PATHWAY: D-carnitine degradation II INVOLVES: X15500	X3141	Pseudomonas	
+PATHWAY: poly(glycerol phosphate) wall teichoic acid biosynthesis INVOLVES: X32342	X43847	X2372	Bacillus	Lactobacillus	
+PATHWAY: urate degradation to allantoin II INVOLVES: X1604	X1107	Bacillus	Pseudomonas	Achromobacter	
+PATHWAY: spermidine biosynthesis II INVOLVES: X485	X1408	X443	Bacillus	Pseudomonas	
+PATHWAY: superpathway of menaquinol-11 biosynthesis INVOLVES: X528	X32342	Prevotella	Bacillus	Microbacterium	Corynebacterium	Flavobacterium	
+PATHWAY: lipoate salvage I INVOLVES: X32342	Bacillus	
+PATHWAY: L-arginine degradation V (arginine deiminase pathway) INVOLVES: X1638	X2132	Pseudomonas	Aeromonas	Mycoplasma	Bacillus	Streptococcus	Lactobacillus	Micrococcus	Flavobacterium	
+PATHWAY: poly(3-O-&beta;-D-glucopyranosyl-N-acetylgalactosamine 1-phosphate) wall teichoic acid biosynthesis INVOLVES: X43847	X2372	Bacillus	
+PATHWAY: L-carnitine biosynthesis INVOLVES: X58	X528	X1498	X1437	human	
+PATHWAY: sitosterol degradation to androstenedione INVOLVES: X32342	Pseudomonas	Arthrobacter	Mycobacterium	Nocardioides	Microbacterium	Corynebacterium	
+PATHWAY: chondroitin sulfate degradation I (bacterial) INVOLVES: X46960	Proteus	Pedobacter	Bacillus	Streptococcus	Flavobacterium	
+PATHWAY: putrebactin biosynthesis INVOLVES: X1408	X32342	Pseudomonas	
+PATHWAY: ethanol degradation II INVOLVES: X32342	human	
+PATHWAY: dTDP-&alpha;-D-mycaminose biosynthesis INVOLVES: X528	X57	Actinomyces	Streptomyces	
+PATHWAY: biotin biosynthesis I INVOLVES: X1126	Haemophilus	
+PATHWAY: trimethylamine degradation INVOLVES: X40406	Pseudomonas	
+PATHWAY: paromomycin biosynthesis INVOLVES: X528	X57	Streptomyces	
+PATHWAY: L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde INVOLVES: X54	X1126	Burkholderia	human	
+PATHWAY: ethanol degradation III INVOLVES: X32342	human	
+PATHWAY: superpathway of demethylmenaquinol-9 biosynthesis INVOLVES: X528	X32342	Pseudomonas	Porphyromonas	Arthrobacter	Enterococcus	Burkholderia	Mycobacterium	Gordonia	Bacillus	Streptococcus	Actinomyces	Lactobacillus	Micrococcus	Corynebacterium	
+PATHWAY: hexitol fermentation to lactate, formate, ethanol and acetate INVOLVES: X32342	X527	Streptococcus	Staphylococcus	
+PATHWAY: clavulanate biosynthesis INVOLVES: X1670	X528	X1437	X32342	X1638	Streptomyces	
+PATHWAY: UTP and CTP dephosphorylation II INVOLVES: X2372	X53	X57	Bacillus	human	
+PATHWAY: L-valine degradation II INVOLVES: X528	X1649	X57	Streptococcus	
+PATHWAY: furfural degradation INVOLVES: X528	X32342	Pseudomonas	Arthrobacter	Bacillus	Ralstonia	Alcaligenes	
+PATHWAY: superpathway of penicillin, cephalosporin and cephamycin biosynthesis INVOLVES: X528	X1437	X1649	X1868	X32342	Streptomyces	
+PATHWAY: S-methyl-5'-thioadenosine degradation III INVOLVES: X3127	X1419	Bacillus	Pseudomonas	Micrococcus	
+PATHWAY: butanol and isobutanol biosynthesis (engineered) INVOLVES: X58	Bacillus	
+PATHWAY: superpathway of rifamycin B biosynthesis INVOLVES: X32342	X53	Streptomyces	
+PATHWAY: GABA shunt INVOLVES: X1437	X528	X57	human	
+PATHWAY: 5-aminoimidazole ribonucleotide biosynthesis I INVOLVES: X58	X57	X53	Bacillus	Arthrobacter	human	
+PATHWAY: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing) INVOLVES: X1301	X57	X1126	Deinococcus	Arthrobacter	Enterococcus	Burkholderia	Staphylococcus	Bacillus	Streptococcus	Lactobacillus	Micrococcus	Kocuria	
+PATHWAY: staurosporine biosynthesis INVOLVES: X54	Actinomyces	Streptomyces	
+PATHWAY: ribostamycin biosynthesis INVOLVES: X528	X57	Bacillus	Actinomyces	Streptomyces	
+PATHWAY: mycobacterial sulfolipid biosynthesis INVOLVES: X32342	Mycobacterium	
+PATHWAY: pyrimidine ribonucleosides degradation INVOLVES: X514	X606	human	
+PATHWAY: paromamine biosynthesis I INVOLVES: X53	Actinomyces	Streptomyces	
+PATHWAY: gala-series glycosphingolipids biosynthesis INVOLVES: X2372	human	
+PATHWAY: superpathway of menaquinol-13 biosynthesis INVOLVES: X528	X32342	Microbacterium	Prevotella	
+PATHWAY: vibriobactin biosynthesis INVOLVES: X1284	X32342	Bacillus	
+PATHWAY: superpathway of menaquinol-6 biosynthesis I INVOLVES: X528	X32342	Bacillus	Micrococcus	Staphylococcus	Capnocytophaga	
+PATHWAY: 3-methylarginine biosynthesis INVOLVES: X528	X1638	X57	X443	Pseudomonas	Streptomyces	
+PATHWAY: kanosamine biosynthesis II INVOLVES: X528	X57	Bacillus	
+PATHWAY: L-tryptophan biosynthesis INVOLVES: X1648	X54	X53	X57	Bacillus	Arthrobacter	
+PATHWAY: ganglio-series glycosphingolipids biosynthesis INVOLVES: X2372	human	
+PATHWAY: citrate lyase activation INVOLVES: X32342	Bacillus	Enterobacter	
+PATHWAY: L-arginine degradation VII (arginase 3 pathway) INVOLVES: X1638	X1670	X1898	Achromobacter	Pseudomonas	Bacillus	Streptococcus	Alcaligenes	Rhizobium	Micrococcus	
+PATHWAY: superpathway of guanosine nucleotides de novo biosynthesis I INVOLVES: X53	X57	X32342	Bacillus	human	
+PATHWAY: citrate degradation INVOLVES: X1564	Bacillus	Enterobacter	
+PATHWAY: creatinine degradation II INVOLVES: X513	X58	Arthrobacter	Pseudomonas	
+PATHWAY: yersiniabactin biosynthesis INVOLVES: X1515	X1868	X32342	Bacillus	
+PATHWAY: thiazole biosynthesis II (aerobic bacteria) INVOLVES: X1868	X1126	X32342	X58	Bacillus	
+PATHWAY: D-galacturonate degradation II INVOLVES: X528	Achromobacter	Pseudomonas	Arthrobacter	Comamonas	Bacillus	Alcaligenes	Rhizobium	Delftia	
+PATHWAY: trans-4-hydroxy-L-proline degradation I INVOLVES: X32306	X528	X57	human	
+PATHWAY: superpathway of bacteriochlorophyll a biosynthesis INVOLVES: X58	Bacillus	
+PATHWAY: 8-amino-7-oxononanoate biosynthesis I INVOLVES: X1126	Haemophilus	
+PATHWAY: indolmycin biosynthesis INVOLVES: X1638	X54	X1126	X32342	Actinomyces	Streptomyces	
+PATHWAY: &gamma;-butyrobetaine degradation INVOLVES: X528	X1437	X3141	Bacillus	Pseudomonas	Arthrobacter	Micrococcus	
+PATHWAY: sucrose degradation I (sucrose phosphotransferase) INVOLVES: X1519	X48195	Pseudomonas	Arthrobacter	Staphylococcus	Bacillus	Streptococcus	Lactobacillus	Micrococcus	
+PATHWAY: L-glutamine degradation I INVOLVES: X53	X57	Bacillus	human	
+PATHWAY: peptidoglycan biosynthesis I (<I>meso</I>-diaminopimelate containing) INVOLVES: X57	X1126	Pseudomonas	Arthrobacter	Mycobacterium	Bacillus	Propionibacterium	Micrococcus	Microbacterium	Corynebacterium	
+PATHWAY: phosphinothricin tripeptide biosynthesis INVOLVES: X1126	X32342	X2372	Actinomyces	Streptomyces	
+PATHWAY: adenosylcobalamin biosynthesis II (aerobic) INVOLVES: X1284	X32342	X53	X57	Pseudomonas	Streptococcus	Rhizobium	Micrococcus	
+PATHWAY: urate degradation to allantoin I INVOLVES: X1107	X1604	Pseudomonas	Comamonas	Bacillus	Delftia	Micrococcus	
+PATHWAY: L-isoleucine biosynthesis I (from threonine) INVOLVES: X1284	X528	X1125	X57	Ralstonia	Alcaligenes	
+PATHWAY: L-threonine degradation IV INVOLVES: X1284	X58	Achromobacter	Pseudomonas	Arthrobacter	Aeromonas	Bacillus	
+PATHWAY: phosphatidylinositol biosynthesis II (eukaryotes) INVOLVES: X1124	X2372	human	
+PATHWAY: serotonin and melatonin biosynthesis INVOLVES: X54	human	
+PATHWAY: tetrapyrrole biosynthesis II (from glycine) INVOLVES: X58	human	Streptomyces	
+PATHWAY: L-arginine degradation IX (arginine:pyruvate transaminase pathway) INVOLVES: X1638	X1126	X1670	Bacillus	Pseudomonas	Micrococcus	
+PATHWAY: L-aspartate biosynthesis INVOLVES: X528	X443	X57	human	
+PATHWAY: arginine, ornithine and proline interconversion INVOLVES: X18319	X1898	X528	X57	X1493	X1638	X2132	Bacillus	
+PATHWAY: heterolactic fermentation INVOLVES: X48195	X527	Bacillus	Lactobacillus	
+PATHWAY: pentachlorophenol degradation INVOLVES: X2127	X27727	Arthrobacter	Pseudomonas	
+PATHWAY: glycine cleavage INVOLVES: X58	human	
+PATHWAY: peptidoglycan biosynthesis V (&beta;-lactam resistance) INVOLVES: X1301	X57	X1126	Enterococcus	Streptococcus	
+PATHWAY: thiosulfate oxidation IV (multienzyme complex) INVOLVES: X46960	Bacillus	
+PATHWAY: L-arginine biosynthesis I (via L-ornithine) INVOLVES: X528	X15720	X53	X57	X1638	X1643	X2132	X443	X32342	Bacillus	
+PATHWAY: L-lysine degradation V INVOLVES: X1437	X396	X528	X57	X1444	X1301	Bacillus	Pseudomonas	Arthrobacter	
+PATHWAY: sphingolipid biosynthesis (mammals) INVOLVES: X34396	X1648	human	
+PATHWAY: L-valine biosynthesis INVOLVES: X528	X1649	X57	Ralstonia	Alcaligenes	
+PATHWAY: L-ascorbate biosynthesis VI (engineered pathway) INVOLVES: X32354	Bacillus	Pseudomonas	Corynebacterium	Enterobacter	
+PATHWAY: 2-methylcitrate cycle I INVOLVES: X1437	X32342	Bacillus	
+PATHWAY: cholesterol degradation to androstenedione II (cholesterol dehydrogenase) INVOLVES: X32342	X63	Bacillus	Mycobacterium	Streptomyces	
+PATHWAY: formaldehyde assimilation I (serine pathway) INVOLVES: X1648	X58	X1572	X1303	Methylobacterium	Pseudomonas	
+PATHWAY: purine deoxyribonucleosides degradation II INVOLVES: X3127	human	
+PATHWAY: heme biosynthesis II (anaerobic) INVOLVES: X41754	Pseudomonas	Arthrobacter	Mycobacterium	Bradyrhizobium	Bacillus	Streptococcus	Ralstonia	Alcaligenes	Rhizobium	Micrococcus	
+PATHWAY: 4-hydroxy-2-nonenal detoxification INVOLVES: X2127	X58	X57	human	
+PATHWAY: heparan sulfate degradation INVOLVES: X46960	Streptococcus	Pedobacter	Flavobacterium	
+PATHWAY: ketogenesis INVOLVES: X542	human	
+PATHWAY: putrescine degradation I INVOLVES: X528	X1408	X57	Enterobacter	
+PATHWAY: CMP phosphorylation INVOLVES: X2372	human	
+PATHWAY: purine nucleobases degradation II (anaerobic) INVOLVES: X1648	X3127	X1604	X58	X3147	Bacillus	
+PATHWAY: 1,3-propanediol biosynthesis (engineered) INVOLVES: X43847	Bacillus	
+PATHWAY: tetrahydrofolate biosynthesis INVOLVES: X57	Streptococcus	
+PATHWAY: salicylate degradation IV INVOLVES: X32342	X1515	Streptomyces	
+PATHWAY: (R)- and (S)-3-hydroxybutanoate biosynthesis (engineered) INVOLVES: X542	Ralstonia	Alcaligenes	
+PATHWAY: superpathway of menaquinol-9 biosynthesis INVOLVES: X528	X32342	Pseudomonas	Porphyromonas	Arthrobacter	Burkholderia	Mycobacterium	Gordonia	Bacillus	Streptococcus	Actinomyces	Lactobacillus	Micrococcus	Corynebacterium	
+PATHWAY: D-glucarate degradation II INVOLVES: X528	Achromobacter	Pseudomonas	Arthrobacter	Comamonas	Acinetobacter	Bacillus	Rhizobium	Alcaligenes	Delftia	
+PATHWAY: L-glutamate and L-glutamine biosynthesis INVOLVES: X53	X57	X528	Ruminococcus	human	
+PATHWAY: 2-aminoethylphosphonate degradation I INVOLVES: X1126	Bacillus	Pseudomonas	Enterobacter	Micrococcus	
+PATHWAY: S-adenosyl-L-methionine cycle II INVOLVES: X555	Bacillus	Mycobacterium	
+PATHWAY: superpathway of erythromycin biosynthesis INVOLVES: X528	X57	Actinomyces	Streptomyces	
+PATHWAY: deacetylcephalosporin C biosynthesis INVOLVES: X528	X1437	Streptomyces	
+PATHWAY: aldoxime degradation INVOLVES: X594	Bacillus	Pseudomonas	Staphylococcus	
+PATHWAY: NAD salvage pathway III INVOLVES: X32342	Aggregatibacter	Actinobacillus	Mycobacterium	Haemophilus	Bacillus	Streptococcus	Micrococcus	
+PATHWAY: D-arginine degradation INVOLVES: X1638	Bacillus	Pseudomonas	Micrococcus	
+PATHWAY: L-lysine degradation VIII INVOLVES: X1301	Achromobacter	Pseudomonas	Bacillus	Alcaligenes	Rhizobium	
+PATHWAY: Bifidobacterium shunt INVOLVES: X527	Bacillus	Actinomyces	Bifidobacterium	Lactobacillus	
+PATHWAY: uracil degradation II (oxidative) INVOLVES: X1670	Arthrobacter	Mycobacterium	Gordonia	Enterobacter	Bacillus	Nocardioides	Corynebacterium	
+PATHWAY: L-arginine biosynthesis II (acetyl cycle) INVOLVES: X53	X15720	X528	X57	X1638	X1643	X2132	X443	X32342	Pseudomonas	Arthrobacter	Bacillus	Neisseria	Micrococcus	Neisseriaceae	Microbacterium	Corynebacterium	
+PATHWAY: globo-series glycosphingolipids biosynthesis INVOLVES: X2372	human	
+PATHWAY: NAD biosynthesis I (from aspartate) INVOLVES: X443	X1899	X53	X57	X32342	Pseudomonas	Burkholderia	Arthrobacter	Mycobacterium	Bacillus	Ralstonia	Micrococcus	
+PATHWAY: taurine degradation I INVOLVES: X2125	X1126	Pseudomonas	Alcaligenes	
+PATHWAY: 3-phosphoinositide biosynthesis INVOLVES: X1124	X2372	human	
+PATHWAY: NAD biosynthesis III INVOLVES: X594	Aggregatibacter	Deinococcus	Actinobacillus	Pseudomonas	Haemophilus	Bacillus	Mycoplasma	Micrococcus	
+PATHWAY: L-arginine degradation II (AST pathway) INVOLVES: X1437	X528	X57	X1638	Pseudomonas	Arthrobacter	Burkholderia	Enterobacter	Aeromonas	Bacillus	Micrococcus	
+PATHWAY: bacillibactin biosynthesis INVOLVES: X1284	X58	X32342	Bacillus	Arthrobacter	Microbacterium	
+PATHWAY: sulfite oxidation III INVOLVES: X46960	X32342	Bacillus	
+PATHWAY: imidazole-lactate degradation INVOLVES: X528	X59	X57	X15716	Pseudomonas	Alcaligenes	Comamonas	Delftia	
+PATHWAY: L-histidine degradation III INVOLVES: X57	X59	human	
+PATHWAY: nicotine degradation I (pyridine pathway) INVOLVES: X528	X57	X1437	Arthrobacter	Nocardioides	
+PATHWAY: neolacto-series glycosphingolipids biosynthesis INVOLVES: X2372	human	
+PATHWAY: L-glutamine degradation II INVOLVES: X528	X53	X57	Bacillus	Arthrobacter	Streptomyces	
+PATHWAY: adenine and adenosine salvage III INVOLVES: X555	X1123	X3127	Pseudomonas	human	Mycoplasma	Bacillus	Flavobacterium	
+PATHWAY: itaconate degradation INVOLVES: X1437	Bacillus	Pseudomonas	
+PATHWAY: purine ribonucleosides degradation INVOLVES: X1573	X3127	X1123	X555	X3147	human	Mycoplasma	
+PATHWAY: (S)-reticuline biosynthesis II INVOLVES: X1299	X528	X57	human	
+PATHWAY: superpathway of N-acetylneuraminate degradation INVOLVES: X32342	Bacillus	Streptococcus	Peptococcus	Abiotrophia	
+PATHWAY: L-histidine degradation VI INVOLVES: X528	X59	human	
+PATHWAY: caffeine degradation III (bacteria, via demethylation) INVOLVES: X569	X18392	X3147	X1604	Bacillus	Pseudomonas	Enterobacter	Enterobacteriaceae	
+PATHWAY: L-lysine biosynthesis III INVOLVES: X1301	X443	Proteus	Arthrobacter	Bacillus	Micrococcus	Microbacterium	Corynebacterium	
+PATHWAY: putrescine degradation IV INVOLVES: X1408	Kocuria	Deinococcus	Micrococcus	
+PATHWAY: superpathway of salicylate degradation INVOLVES: X1515	X1437	Pseudomonas	
+PATHWAY: L-lysine degradation X INVOLVES: X1437	X396	X528	X57	X18319	X1301	Bacillus	Pseudomonas	Micrococcus	
+PATHWAY: glycine betaine biosynthesis IV (from glycine) INVOLVES: X3141	X5086	X58	Actinopolyspora	
+PATHWAY: cyanophycin metabolism INVOLVES: X1638	X443	Acinetobacter	
+PATHWAY: superpathway of guanosine nucleotides de novo biosynthesis II INVOLVES: X53	X57	X32342	Bacillus	
+PATHWAY: dermatan sulfate degradation (metazoa) INVOLVES: X46960	human	
+PATHWAY: plasmalogen degradation INVOLVES: X15506	X15990	X37455	X1600	X34396	human	
+PATHWAY: superpathway of mycolate biosynthesis INVOLVES: X32342	Mycobacterium	
+PATHWAY: L-carnitine degradation II INVOLVES: X3141	Bacillus	Pseudomonas	Arthrobacter	Micrococcus	
+PATHWAY: toluene degradation III (aerobic) (via p-cresol) INVOLVES: X21133	X1437	Pseudomonas	
+PATHWAY: L-alanine degradation IV INVOLVES: X1126	Bacillus	Arthrobacter	Enterobacter	
+PATHWAY: benzoate degradation I (aerobic) INVOLVES: X15778	Pseudomonas	Acinetobacter	Neisseria	Alcaligenes	Micrococcus	Ralstonia	Corynebacterium	Moraxella	
+PATHWAY: heme biosynthesis III (from siroheme) INVOLVES: X41754	Bacillus	
+PATHWAY: tunicamycin biosynthesis INVOLVES: X606	Actinomyces	Streptomyces	
+PATHWAY: mannojirimycin biosynthesis INVOLVES: X57	X528	Bacillus	
+PATHWAY: phosphatidylserine biosynthesis II INVOLVES: X1648	human	
+PATHWAY: catechol degradation III (ortho-cleavage pathway) INVOLVES: X1437	Achromobacter	Pseudomonas	Arthrobacter	Bacillus	Acinetobacter	Ralstonia	Rhizobium	Micrococcus	Alcaligenes	Neisseria	Moraxella	
+PATHWAY: glycolysis II (from fructose 6-phosphate) INVOLVES: X32342	Streptococcus	Staphylococcus	
+PATHWAY: sulfate reduction IV (dissimilatory, to hydrogen sufide)) INVOLVES: X32342	X46960	Bacillus	
+PATHWAY: superpathway of pyrimidine ribonucleotides de novo biosynthesis INVOLVES: X1505	X443	X53	X57	human	
+PATHWAY: D-cycloserine biosynthesis INVOLVES: X528	X1638	X1437	X1648	X37076	Streptomyces	
+PATHWAY: nicotinate degradation I INVOLVES: X1643	X20676	Bacillus	Pseudomonas	Arthrobacter	
+PATHWAY: toyocamycin biosynthesis INVOLVES: X443	X1643	Streptomyces	
+PATHWAY: myo-inositol biosynthesis INVOLVES: X1124	Pseudomonas	human	Mycobacterium	Enterobacter	Bacillus	
+PATHWAY: heme biosynthesis IV (Gram-positive bacteria) INVOLVES: X41754	Bacillus	Arthrobacter	Mycobacterium	
+PATHWAY: taurine degradation II INVOLVES: X2125	Achromobacter	Micrococcus	
+PATHWAY: UDP-N-acetyl-D-glucosamine biosynthesis II INVOLVES: X53	X57	human	
+PATHWAY: &beta;-alanine degradation II INVOLVES: X1126	X55	Bacillus	Pseudomonas	
+PATHWAY: caffeine degradation IV (bacteria, via demethylation and oxidation) INVOLVES: X569	X18392	X3147	X1604	Pseudomonas	
+PATHWAY: factor 420 biosynthesis INVOLVES: X527	Bacillus	Mycobacterium	Streptomyces	
+PATHWAY: streptomycin biosynthesis INVOLVES: X1124	X1126	X1638	X53	Actinomyces	Streptomyces	
+PATHWAY: aniline degradation INVOLVES: X57	Achromobacter	Pseudomonas	Burkholderia	Acinetobacter	Ralstonia	Delftia	
+PATHWAY: type IV lipoteichoic acid biosynthesis (S. pneumoniae) INVOLVES: X15506	X34396	X2372	X32342	Streptococcus	Micrococcus	
+PATHWAY: 2,4-dichlorophenoxyacetate  degradation INVOLVES: X528	X1437	Pseudomonas	Burkholderia	Comamonas	Bradyrhizobium	Ralstonia	Delftia	
+PATHWAY: S-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation INVOLVES: X528	X53	Bacillus	Arthrobacter	human	
+PATHWAY: superpathway of trimethylamine degradation INVOLVES: X40406	X57	Pseudomonas	
+PATHWAY: glycocholate metabolism (bacteria) INVOLVES: X58	Blautia	Bifidobacterium	Peptostreptococcus	
+PATHWAY: purine deoxyribonucleosides degradation I INVOLVES: X3127	Mycoplasma	
+PATHWAY: UMP biosynthesis I INVOLVES: X1505	X443	X53	X57	human	
+PATHWAY: superpathay of heme biosynthesis from glutamate INVOLVES: X41754	X57	X32342	Bacillus	Pseudomonas	
+PATHWAY: siroheme amide biosynthesis INVOLVES: X53	X57	Bacillus	
+PATHWAY: 4-aminobutanoate degradation II INVOLVES: X1437	X528	X57	Ralstonia	Alcaligenes	
+PATHWAY: L-methionine salvage cycle III INVOLVES: X528	X53	X1408	X485	X1419	human	
+PATHWAY: inosine-5'-phosphate biosynthesis II INVOLVES: X1643	X443	human	
+PATHWAY: L-rhamnose degradation II INVOLVES: X527	Burkholderia	
+PATHWAY: superpathway of glycol metabolism and degradation INVOLVES: X1303	X1572	Bacillus	Pseudomonas	Arthrobacter	
+PATHWAY: superpathway of dTDP-glucose-derived antibiotic building blocks biosynthesis INVOLVES: X528	X57	Actinomyces	Streptomyces	
+PATHWAY: indole-3-acetate degradation VIII (bacterial) INVOLVES: X27513	Burkholderia	Pseudomonas	Rhizobium	Bradyrhizobium	
+PATHWAY: taurine degradation III INVOLVES: X528	X2125	X57	Achromobacter	
+PATHWAY: L-lysine biosynthesis V INVOLVES: X1301	X57	X528	Deinococcus	Micrococcus	
+PATHWAY: fluoroacetate and fluorothreonine biosynthesis INVOLVES: X1284	Streptomyces	
+PATHWAY: superpathway of demethylmenaquinol-6 biosynthesis I INVOLVES: X528	X32342	Haemophilus	
+PATHWAY: L-phenylalanine biosynthesis I INVOLVES: X57	X64	X528	Bacillus	Arthrobacter	
+PATHWAY: polyacyltrehalose biosynthesis INVOLVES: X32342	Mycobacterium	
+PATHWAY: echinomycin and triostin A biosynthesis INVOLVES: X1126	X1648	X1649	X1868	X32342	Streptomyces	
+PATHWAY: L-tryptophan degradation II (via pyruvate) INVOLVES: X54	Achromobacter	Pseudomonas	Fusobacterium	Proteus	Enterobacter	Aeromonas	Bacillus	Propionibacterium	Actinomyces	Micrococcus	Corynebacterium	
+PATHWAY: sulfite oxidation I INVOLVES: X46960	Micrococcus	
+PATHWAY: 2-oxoglutarate decarboxylation to succinyl-CoA INVOLVES: X528	Deinococcus	Pseudomonas	Arthrobacter	human	Bacillus	Micrococcus	
+PATHWAY: L-glutamate degradation V (via hydroxyglutarate) INVOLVES: X57	X528	Fusobacterium	Peptococcus	Staphylococcus	Peptostreptococcus	Micrococcus	Corynebacterium	Peptoniphilus	
+PATHWAY: 2-amino-3-hydroxycyclopent-2-enone biosynthesis INVOLVES: X32342	X58	Streptomyces	
+PATHWAY: neomycin biosynthesis INVOLVES: X528	X57	Actinomyces	Streptomyces	
+PATHWAY: myo-, chiro- and scillo-inositol degradation INVOLVES: X1124	Bacillus	
+PATHWAY: cis-genanyl-CoA degradation INVOLVES: X32342	Bacillus	Pseudomonas	Micrococcus	
+PATHWAY: 3-hydroxy-4-methyl-anthranilate biosynthesis I INVOLVES: X54	X1126	Actinomyces	Streptomyces	
+PATHWAY: superpathway of aromatic compound degradation via 2-oxopent-4-enoate INVOLVES: X15778	X1515	X54	X1126	X21133	Pseudomonas	Arthrobacter	Comamonas	Acinetobacter	Bacillus	Delftia	Micrococcus	
+PATHWAY: putrescine biosynthesis I INVOLVES: X1670	X1408	X1638	Bacillus	Arthrobacter	human	Mycobacterium	
+PATHWAY: L-tryptophan degradation III (eukaryotic) INVOLVES: X54	X1126	human	
+PATHWAY: phosalacine biosynthesis INVOLVES: X60	X1126	X32342	X2372	Nocardiopsis	Streptomyces	
+PATHWAY: CDP-diacylglycerol biosynthesis I INVOLVES: X43847	human	
+PATHWAY: phosphatidylcholine biosynthesis I INVOLVES: X2372	X15506	X34396	human	
+PATHWAY: L-lysine degradation VI INVOLVES: X1301	X528	X57	Streptomyces	Flavobacterium	
+PATHWAY: butirosin biosynthesis INVOLVES: X1494	X57	Bacillus	
+PATHWAY: peptidoglycan biosynthesis IV (Enterococcus faecium) INVOLVES: X32342	X1301	X57	X1126	Enterococcus	Streptococcus	Lactobacillus	
+PATHWAY: NAD salvage pathway II INVOLVES: X53	X57	X32342	Bacillus	
+PATHWAY: urea cycle INVOLVES: X1670	X1638	X1643	X443	X32342	X2132	human	
+PATHWAY: L-threonine degradation V INVOLVES: X1284	human	
+PATHWAY: xylose degradation III INVOLVES: X528	Flavobacterium	
+PATHWAY: superpathway of menaquinol-12 biosynthesis INVOLVES: X528	X32342	Microbacterium	Prevotella	Corynebacterium	Flavobacterium	
+PATHWAY: superpathway of L-citrulline metabolism INVOLVES: X1643	X443	X32342	X1898	X2132	X528	X1638	X1670	X53	X57	human	
+PATHWAY: superpathway of purine nucleotides de novo biosynthesis I INVOLVES: X32342	X1643	X443	X58	X57	X53	human	
+PATHWAY: L-arginine degradation XI INVOLVES: X1670	X528	X1638	X57	Achromobacter	Arthrobacter	Mycobacterium	Nocardioides	Corynebacterium	
+PATHWAY: allantoin degradation to glyoxylate III INVOLVES: X1107	X1670	Bacillus	
+PATHWAY: taxadiene biosynthesis (engineered) INVOLVES: X2372	Bacillus	Pseudomonas	Enterobacter	
+PATHWAY: L-histidine degradation I INVOLVES: X57	X59	Bacillus	Arthrobacter	Enterobacter	
+PATHWAY: petrobactin biosynthesis INVOLVES: X1564	X485	X32342	Bacillus	Pseudomonas	Methylobacterium	
+PATHWAY: fatty acid &beta;-oxidation VI (peroxisome) INVOLVES: X32342	human	
+PATHWAY: L-tryptophan degradation VII (via indole-3-pyruvate) INVOLVES: X27513	X54	X528	X57	Achromobacter	Pseudomonas	Burkholderia	Enterobacter	Bradyrhizobium	Bacillus	Alcaligenes	Rhizobium	
+PATHWAY: superpathway of L-serine and glycine biosynthesis I INVOLVES: X58	X1648	X528	X57	human	
+PATHWAY: superpathway of L-isoleucine biosynthesis I INVOLVES: X1125	X1284	X528	X443	X57	Bacillus	Arthrobacter	
+PATHWAY: L-proline degradation INVOLVES: X1898	X57	Achromobacter	Pseudomonas	human	Bradyrhizobium	Bacillus	Alcaligenes	Rhizobium	
+PATHWAY: L-glutamate degradation VIII (to propanoate) INVOLVES: X1437	X1303	X1643	X57	Selenomonas	
+PATHWAY: L-ascorbate degradation II (bacterial, aerobic) INVOLVES: X32354	Bacillus	
+PATHWAY: 1,2-propanediol biosynthesis from lactate (engineered) INVOLVES: X527	Megasphaera	Peptostreptococcus	
+PATHWAY: superpathway of pentose and pentitol degradation INVOLVES: X1303	X528	X48885	Caulobacter	Pseudomonas	Pelomonas	Proteus	Enterobacter	Enterobacteriaceae	Bacillus	Rhizobium	Flavobacterium	
+PATHWAY: urea degradation II INVOLVES: X1670	Streptococcus	
+PATHWAY: superpathway of testosterone and androsterone degradation INVOLVES: X32342	Pseudomonas	Mycobacterium	Comamonas	Bacillus	Alcaligenes	Corynebacterium	
+PATHWAY: salicylate degradation I INVOLVES: X1515	Pseudomonas	
+PATHWAY: L-arginine biosynthesis III (via N-acetyl-L-citrulline) INVOLVES: X528	X15720	X53	X57	X1638	X1643	X2132	X443	X32342	Achromobacter	Pseudomonas	Prevotella	Bacillus	Tannerella	
+PATHWAY: bacilysin biosynthesis INVOLVES: X1126	X64	Bacillus	Arthrobacter	
+PATHWAY: pyruvate fermentation to lactate INVOLVES: X527	Bacillus	Bifidobacterium	Lactobacillus	Mycoplasma	
+PATHWAY: factor 420 polyglutamylation INVOLVES: X57	Bacillus	Mycobacterium	Streptomyces	
+PATHWAY: L-tryptophan degradation VI (via tryptamine) INVOLVES: X27513	X54	Brachybacterium	Enterococcus	Bacillus	Streptococcus	Rhizobium	Micrococcus	
+PATHWAY: L-serine degradation INVOLVES: X1648	human	
+PATHWAY: L-arginine degradation IV (arginine decarboxylase/agmatine deiminase pathway) INVOLVES: X1408	X1638	Bacillus	Pseudomonas	Aeromonas	Micrococcus	
+PATHWAY: nicotine degradation IV INVOLVES: X553	human	
+PATHWAY: D-glucuronate degradation II INVOLVES: X528	Achromobacter	Pseudomonas	Arthrobacter	Comamonas	Bacillus	Alcaligenes	Rhizobium	Delftia	
+PATHWAY: heme degradation INVOLVES: X41754	human	
+PATHWAY: L-threonine degradation I INVOLVES: X1284	Bacillus	
+PATHWAY: dTDP-D-desosamine biosynthesis INVOLVES: X528	X57	Streptomyces	
+PATHWAY: glutamate removal from folates INVOLVES: X57	human	
+PATHWAY: 5-hydroxymethylfurfural degradation INVOLVES: X32342	X528	Burkholderia	Pseudomonas	Ralstonia	
+PATHWAY: TCA cycle III (animals) INVOLVES: X528	X1437	X1564	X46173	X1303	X1643	human	
+PATHWAY: superpathway of thiamine diphosphate biosynthesis I INVOLVES: X1868	X1126	X1299	X32342	Bacillus	
+PATHWAY: superpathway of aerobic toluene degradation INVOLVES: X21133	X1437	X15778	Burkholderia	Pseudomonas	Ralstonia	
+PATHWAY: L-lysine degradation XI (mammalian) INVOLVES: X57	X1301	X528	human	
+PATHWAY: superpathway of tetracycline and oxytetracycline biosynthesis INVOLVES: X53	X57	X32342	Streptomyces	
+PATHWAY: type I lipoteichoic acid biosynthesis (S. aureus) INVOLVES: X32342	X43847	X2372	Arthrobacter	Staphylococcus	Bacillus	Streptococcus	Micrococcus	Corynebacterium	
+PATHWAY: glycerol-3-phosphate shuttle INVOLVES: X43847	human	
+PATHWAY: zwittermicin A biosynthesis INVOLVES: X60	X32342	X1126	X1648	X512	Bacillus	Microbacterium	
+PATHWAY: L-dopachrome biosynthesis INVOLVES: X1299	Bacillus	human	Rhizobium	
+PATHWAY: morphine biosynthesis INVOLVES: X528	X1437	human	
+PATHWAY: L-isoleucine biosynthesis V INVOLVES: X528	X1125	X57	Bacillus	Prevotella	
+PATHWAY: salicylate degradation II INVOLVES: X1515	Pseudomonas	Ralstonia	
+PATHWAY: ectoine biosynthesis INVOLVES: X443	X528	X57	Halomonas	
+PATHWAY: sulfate activation for sulfonation INVOLVES: X46960	human	
+PATHWAY: superpathway of nicotinate degradation INVOLVES: X20676	X1643	Bacillus	Pseudomonas	Arthrobacter	
+PATHWAY: 4-chloro-2-methylphenoxyacetate degradation INVOLVES: X528	X1437	Pseudomonas	Burkholderia	Comamonas	Bradyrhizobium	Ralstonia	Delftia	
+PATHWAY: molybdenum cofactor biosynthesis INVOLVES: X1868	X1126	X32342	human	Staphylococcus	
+PATHWAY: urate biosynthesis/inosine 5'-phosphate degradation INVOLVES: X1604	X3147	human	
+PATHWAY: pyochelin biosynthesis INVOLVES: X1868	X32342	X1515	Bacillus	Pseudomonas	Micrococcus	Burkholderia	
+PATHWAY: 5-nitroanthranilate degradation INVOLVES: X1643	Bradyrhizobium	
+PATHWAY: glycine biosynthesis II INVOLVES: X58	human	
+PATHWAY: TCA cycle VII (acetate-producers) INVOLVES: X1437	X1564	X46173	X528	X1303	X1643	Bacillus	Micrococcus	
+PATHWAY: peptidoglycan biosynthesis II (staphylococci) INVOLVES: X1301	X57	X1126	Deinococcus	Burkholderia	Enterococcus	Arthrobacter	Staphylococcus	Bacillus	Streptococcus	Lactobacillus	Micrococcus	Kocuria	
+PATHWAY: superpathway of aromatic compound degradation via 3-oxoadipate INVOLVES: X54	X1126	X21133	X1437	X15778	Pseudomonas	Arthrobacter	Comamonas	Acinetobacter	Bacillus	Delftia	Micrococcus	
+PATHWAY: caffeine biosynthesis I INVOLVES: X569	X18392	Gordonia	
+PATHWAY: nylon-6 oligomer degradation INVOLVES: X528	X57	Pseudomonas	Arthrobacter	Staphylococcus	Acinetobacter	Bacillus	Alcaligenes	Micrococcus	
+PATHWAY: 2-hydroxybiphenyl degradation INVOLVES: X15778	Pseudomonas	
+PATHWAY: sulfate reduction III (assimilatory) INVOLVES: X32342	X46960	Bacillus	Pseudomonas	Rhizobium	Micrococcus	
+PATHWAY: uracil degradation I (reductive) INVOLVES: X55	Bacillus	human	
+PATHWAY: L-aspartate degradation II INVOLVES: X1303	X528	X443	X57	human	
+PATHWAY: wax esters biosynthesis II INVOLVES: X32342	Acinetobacter	
+PATHWAY: cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion) INVOLVES: X53	X57	Bacillus	Propionibacterium	
+PATHWAY: NAD biosynthesis II (from tryptophan) INVOLVES: X54	X1126	X1899	X53	X57	X32342	human	Actinomyces	Streptomyces	Actinobacteria	
+PATHWAY: superpathway of steroid hormone biosynthesis INVOLVES: X63	human	
+PATHWAY: acetyl-CoA biosynthesis III (from citrate) INVOLVES: X1564	human	
+PATHWAY: 3-oxoadipate degradation INVOLVES: X1437	Pseudomonas	Arthrobacter	Acinetobacter	Bacillus	Neisseria	Micrococcus	Corynebacterium	Moraxella	
+PATHWAY: purine nucleobases degradation I (anaerobic) INVOLVES: X3127	X1604	X58	X3147	Bacillus	
+PATHWAY: gramicidin S biosynthesis INVOLVES: X60	X1649	X1898	X64	X32342	Bacillus	
+PATHWAY: (+)-camphor degradation INVOLVES: X32342	Pseudomonas	
+PATHWAY: p-HBAD biosynthesis INVOLVES: X21133	X34386	Mycobacterium	
+PATHWAY: adenosine ribonucleotides de novo biosynthesis INVOLVES: X1643	X32342	X443	Bacillus	human	
+PATHWAY: puromycin biosynthesis INVOLVES: X1299	Streptomyces	
+PATHWAY: adenine salvage INVOLVES: X32342	X3127	Bacillus	Arthrobacter	
+PATHWAY: ethylmalonyl-CoA pathway INVOLVES: X1303	Pseudomonas	Streptomyces	Methylobacterium	Streptococcus	Actinomyces	
+PATHWAY: pyruvate fermentation to propanoate I INVOLVES: X1437	X1303	X1643	Bacillus	Propionibacterium	Corynebacterium	
+PATHWAY: creatine-phosphate biosynthesis INVOLVES: X27718	human	
+PATHWAY: superpathway of polyamine biosynthesis III INVOLVES: X528	X57	X485	X1408	X443	Bacillus	Pseudomonas	
+PATHWAY: L-citrulline-nitric oxide cycle INVOLVES: X1643	X443	X32342	X1638	X2132	human	
+PATHWAY: carnosine biosynthesis INVOLVES: X59	X55	human	
+PATHWAY: 4-chlorobenzoate degradation INVOLVES: X21133	X32342	Arthrobacter	Pseudomonas	Acinetobacter	
+PATHWAY: coenzyme A biosynthesis II (mammalian) INVOLVES: X1868	X32342	human	
+PATHWAY: L-cysteine degradation III INVOLVES: X1868	X528	X57	human	
+PATHWAY: glycolate degradation II INVOLVES: X1437	Lachnospira	Lachnospiraceae	
+PATHWAY: L-glutamate biosynthesis II INVOLVES: X57	X528	human	
+PATHWAY: superpathway of L-cysteine biosynthesis (mammalian) INVOLVES: X1868	X1648	X555	human	
+PATHWAY: PRPP biosynthesis I INVOLVES: X32342	human	
+PATHWAY: L-selenocysteine biosynthesis II (archaea and eukaryotes) INVOLVES: X1648	X32342	human	
+PATHWAY: pentalenolactone biosynthesis INVOLVES: X528	X1437	Actinomyces	Streptomyces	
+PATHWAY: L-alanine biosynthesis III INVOLVES: X1868	X1126	Bacillus	human	
+PATHWAY: arsenate detoxification I (glutaredoxin) INVOLVES: X2127	X27727	human	
+PATHWAY: cyclohexanol degradation INVOLVES: X53241	Pseudomonas	Mycobacterium	Bacillus	Acinetobacter	Neisseria	Micrococcus	Neisseriaceae	Microbacterium	
+PATHWAY: theophylline degradation INVOLVES: X1604	X3147	X18394	Pseudomonas	
+PATHWAY: CMP-pseudaminate biosynthesis INVOLVES: X528	X57	Bacillus	Pseudomonas	Micrococcus	
+PATHWAY: L-arginine degradation I (arginase pathway) INVOLVES: X528	X57	X1638	X1670	Achromobacter	Pseudomonas	Arthrobacter	human	Bacillus	Alcaligenes	Rhizobium	
+PATHWAY: mycolate biosynthesis INVOLVES: X32342	Mycobacterium	
+PATHWAY: bacterial bioluminescence INVOLVES: X32342	Achromobacter	Pseudomonas	Bacillus	Acinetobacter	Streptococcus	Micrococcus	
+PATHWAY: sulfate reduction I (assimilatory) INVOLVES: X46960	Bacillus	Arthrobacter	
+PATHWAY: superpathway of CMP-sialic acids biosynthesis INVOLVES: X32377	Bacillus	human	Neisseria	Micrococcus	
+PATHWAY: phytol degradation INVOLVES: X32342	human	
+PATHWAY: trans-4-hydroxy-L-proline degradation II INVOLVES: X528	X32306	Achromobacter	Pseudomonas	Arthrobacter	Bacillus	Micrococcus	
+PATHWAY: L-dopa degradation INVOLVES: X528	X57	human	
+PATHWAY: 8-amino-7-oxononanoate biosynthesis II INVOLVES: X1126	Bacillus	Arthrobacter	
+PATHWAY: gentisate degradation I INVOLVES: X1643	Pseudomonas	Arthrobacter	Streptomyces	Bacillus	Ralstonia	Micrococcus	Microbacterium	Corynebacterium	
+PATHWAY: guanine and guanosine salvage INVOLVES: X1573	human	Mycoplasma	
+PATHWAY: superpathway of demethylmenaquinol-8 biosynthesis INVOLVES: X528	X32342	Pseudomonas	Proteus	Enterococcus	Enterobacter	Aeromonas	Bacillus	Streptococcus	Micrococcus	
+PATHWAY: dapdiamides biosynthesis INVOLVES: X528	X1437	X1648	X1643	X53	X57	X32342	X1649	X1125	X60	Bacillus	Pseudomonas	Enterobacter	
+PATHWAY: ferulate degradation INVOLVES: X32342	Pseudomonas	Actinomyces	Streptomyces	
+PATHWAY: L-cysteine biosynthesis V INVOLVES: X1868	X32342	Bacillus	Mycobacterium	
+PATHWAY: histamine biosynthesis INVOLVES: X59	Proteus	human	Staphylococcus	Enterobacter	Bacillus	Lactobacillus	
+PATHWAY: oxalate degradation III INVOLVES: X1437	Pseudomonas	Bacillus	Methylobacterium	Ralstonia	Flavobacterium	
+PATHWAY: dehydrophos biosynthesis INVOLVES: X1437	X528	X57	Actinomyces	Streptomyces	
+PATHWAY: pyridoxal 5'-phosphate biosynthesis II INVOLVES: X53	X57	Bacillus	Arthrobacter	
+PATHWAY: mycothiol biosynthesis INVOLVES: X1868	X32342	Bacteria	Mycobacterium	Streptomyces	Mycoplasma	Bacillus	Nocardiopsis	Corynebacterium	
+PATHWAY: sphingomyelin metabolism INVOLVES: X34396	human	
+PATHWAY: superpathway of L-threonine metabolism INVOLVES: X528	X1125	X57	X1284	X58	Bacillus	
+PATHWAY: L-lyxonate degradation INVOLVES: X528	Pseudomonas	
+PATHWAY: L-glutamate degradation II INVOLVES: X1643	X528	X443	X57	Enterobacter	
+PATHWAY: [2Fe-2S] iron-sulfur cluster biosynthesis INVOLVES: X1868	X1126	Bacillus	human	
+PATHWAY: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis INVOLVES: X1505	X443	X53	X57	human	
+PATHWAY: D-glucuronate degradation I INVOLVES: X48885	human	
+PATHWAY: NAD salvage pathway I INVOLVES: X53	X57	X594	X32342	Bacillus	
+PATHWAY: superpathway of adenosine nucleotides de novo biosynthesis II INVOLVES: X1643	X32342	X443	Bacillus	
+PATHWAY: L-alanine biosynthesis II INVOLVES: X1126	X528	X57	human	
+PATHWAY: CDP-diacylglycerol biosynthesis III INVOLVES: X43847	Pseudomonas	Staphylococcus	Bacillus	Streptococcus	Micrococcus	
+PATHWAY: leukotriene biosynthesis INVOLVES: X58	X2127	human	
+PATHWAY: superpathway of L-lysine degradation INVOLVES: X1437	X396	X1444	X528	X57	X18319	X1126	X1301	Achromobacter	Pseudomonas	Fusobacterium	Anaerovibrio	Porphyromonas	Arthrobacter	human	Staphylococcus	Streptomyces	Bacillus	Selenomonas	Alcaligenes	Rhizobium	Veillonella	Micrococcus	Corynebacterium	Flavobacterium	
+PATHWAY: citronellol degradation INVOLVES: X32342	Bacillus	Pseudomonas	Micrococcus	
+PATHWAY: rifamycin B biosynthesis INVOLVES: X32342	Streptomyces	
+PATHWAY: glycerophosphodiester degradation INVOLVES: X43847	Deinococcus	Micrococcus	
+PATHWAY: CMP-N-acetylneuraminate biosynthesis II (bacteria) INVOLVES: X32377	Haemophilus	Bacillus	Streptococcus	Neisseria	Ruminiclostridium	
+PATHWAY: L-leucine degradation I INVOLVES: X528	X60	X57	Pseudomonas	Arthrobacter	human	Streptomyces	Bacillus	Micrococcus	
+PATHWAY: holomycin biosynthesis INVOLVES: X1868	X32342	Actinomyces	Streptomyces	
+PATHWAY: 4-aminobutanoate degradation III INVOLVES: X1437	X528	X57	Pseudomonas	Streptomyces	Bacillus	Actinomyces	Ralstonia	Alcaligenes	Micrococcus	
+PATHWAY: heparin degradation INVOLVES: X46960	Streptococcus	Pedobacter	Flavobacterium	
+PATHWAY: kanamycin biosynthesis INVOLVES: X1437	X57	X528	X53	Streptomyces	
+PATHWAY: octopine degradation INVOLVES: X1638	Achromobacter	Pseudomonas	Bacillus	Alcaligenes	Rhizobium	
+PATHWAY: biosynthesis of ABH and Lewis epitopes from type 1 precursor disaccharide INVOLVES: X2372	human	
+PATHWAY: 3-hydroxyquinaldate biosynthesis INVOLVES: X528	X57	X54	X1648	X32342	Streptomyces	
+PATHWAY: indole-3-acetate biosynthesis IV (bacteria) INVOLVES: X27513	Achromobacter	Pseudomonas	Mesorhizobium	Bacillus	Alcaligenes	Rhizobium	
+PATHWAY: L-phenylalanine degradation IV (mammalian, via side chain) INVOLVES: X32342	X53	X35126	X528	X57	X58	X64	human	
+PATHWAY: fatty acid &alpha;-oxidation II INVOLVES: X528	X1437	X32342	human	
+PATHWAY: ergothioneine biosynthesis I (bacteria) INVOLVES: X37459	X1868	X59	X57	Bacillus	Mycobacterium	
+PATHWAY: L-asparagine degradation I INVOLVES: X512	X443	Bacillus	
+PATHWAY: phosphatidylinositol biosynthesis I (bacteria) INVOLVES: X2372	Arthrobacter	Mycobacterium	Streptomyces	Bacillus	Propionibacterium	Micrococcus	Microbacterium	Corynebacterium	
+PATHWAY: ethanol degradation IV INVOLVES: X32342	human	
+PATHWAY: diphthamide biosynthesis (eukaryotes) INVOLVES: X1419	X32342	human	
+PATHWAY: superpathway of L-methionine biosynthesis (by sulfhydrylation) INVOLVES: X46960	X528	X443	X57	Pseudomonas	Arthrobacter	Bacillus	Micrococcus	Microbacterium	Corynebacterium	
+PATHWAY: naphthalene degradation to acetyl-CoA INVOLVES: X1515	Pseudomonas	
+PATHWAY: choline-O-sulfate degradation INVOLVES: X3141	X46960	X15506	Bacillus	Pseudomonas	Micrococcus	
+PATHWAY: serotonin degradation INVOLVES: X1868	human	
+PATHWAY: L-glutamate degradation I INVOLVES: X57	X528	Pseudomonas	Peptococcus	Staphylococcus	Peptostreptococcus	Bacillus	Micrococcus	Flavobacterium	Peptoniphilus	
+PATHWAY: putrescine biosynthesis II INVOLVES: X1408	X1638	Bacillus	Pseudomonas	Micrococcus	Aeromonas	
+PATHWAY: superpathway of candicidin biosynthesis INVOLVES: X53	X57	Actinomyces	Streptomyces	
+PATHWAY: superpathway of menaquinol-10 biosynthesis INVOLVES: X528	X32342	Pseudomonas	Prevotella	Porphyromonas	Bacillus	Actinomyces	Nocardiopsis	Corynebacterium	
+PATHWAY: androstenedione degradation INVOLVES: X32342	Pseudomonas	Mycobacterium	Staphylococcus	Comamonas	Bacillus	Alcaligenes	Corynebacterium	
+PATHWAY: cholesterol biosynthesis II (via 24,25-dihydrolanosterol) INVOLVES: X63	human	
+PATHWAY: superpathway of heme biosynthesis from glycine INVOLVES: X41754	X58	Achromobacter	Pseudomonas	human	Bacillus	Alcaligenes	Rhizobium	
+PATHWAY: L-glutamate degradation X INVOLVES: X57	X528	Bacillus	Arthrobacter	human	
+PATHWAY: isopenicillin N biosynthesis INVOLVES: X1649	X1868	X32342	Streptomyces	
+PATHWAY: ceramide de novo biosynthesis INVOLVES: X1648	human	
+PATHWAY: 4-methylcatechol degradation (ortho cleavage) INVOLVES: X1437	Pseudomonas	Ralstonia	
+PATHWAY: 4-hydroxyphenylacetate degradation INVOLVES: X1437	Acinetobacter	Pseudomonas	Bacillus	Arthrobacter	
+PATHWAY: 2-keto-L-gulonate biosynthesis INVOLVES: X46142	Bacillus	
+PATHWAY: L-tryptophan degradation IX INVOLVES: X54	X1126	Burkholderia	Bacillus	
+PATHWAY: glutathione-mediated detoxification I INVOLVES: X57	X58	X2127	human	
+PATHWAY: adenosine nucleotides degradation II INVOLVES: X32342	X3147	X1604	X555	X1123	X3127	human	
+PATHWAY: folate transformations I INVOLVES: X1648	X58	Pseudomonas	Ruminococcus	Peptostreptococcus	Bacillus	Blautia	Streptococcus	Methylobacterium	Lactobacillus	
+PATHWAY: formaldehyde oxidation II (glutathione-dependent) INVOLVES: X2127	human	Micrococcus	
+PATHWAY: superpathway of tetrahydrofolate biosynthesis INVOLVES: X53	X32342	X57	Streptococcus	
+PATHWAY: superpathway of microbial D-galacturonate and D-glucuronate degradation INVOLVES: X1572	X528	Achromobacter	Pseudomonas	Deinococcus	Arthrobacter	Mycobacterium	Comamonas	Haemophilus	Acinetobacter	Bacillus	Rhizobium	Alcaligenes	Micrococcus	Delftia	
+PATHWAY: neopentalenoketolactone and pentalenate biosynthesis INVOLVES: X528	X1437	Streptomyces	
+PATHWAY: K-252 biosynthesis INVOLVES: X54	Nocardiopsis	
+PATHWAY: D-myo-inositol (1,4,5)-trisphosphate biosynthesis INVOLVES: X1124	X2372	human	
+PATHWAY: nitrilotriacetate degradation INVOLVES: X58	Pseudomonas	
+PATHWAY: glycolysis I (from glucose 6-phosphate) INVOLVES: X32342	Mycoplasma	
+PATHWAY: mandelate degradation I INVOLVES: X15778	Bacillus	Pseudomonas	Arthrobacter	
+PATHWAY: urea degradation I INVOLVES: X1670	Pseudomonas	
+PATHWAY: super pathway of glycosphingolipids biosynthesis INVOLVES: X2372	human	
+PATHWAY: phosphatidylserine biosynthesis I INVOLVES: X1648	X15506	human	
+PATHWAY: L-ornithine biosynthesis I INVOLVES: X528	X57	X15720	Bacillus	
+PATHWAY: ascorbate recycling (cytosolic) INVOLVES: X2127	X27727	X32354	human	
+PATHWAY: 4-hydroxyphenylpyruvate biosynthesis INVOLVES: X528	X1299	X57	Pseudomonas	Arthrobacter	human	Bacillus	Micrococcus	
+PATHWAY: glycine betaine degradation I INVOLVES: X1648	X58	X3141	X5086	Pseudomonas	Arthrobacter	Bacillus	Micrococcus	Corynebacterium	
+PATHWAY: pyrimidine ribonucleosides salvage I INVOLVES: X2372	X514	X606	human	
+PATHWAY: sulfoacetate degradation INVOLVES: X32342	Ralstonia	Alcaligenes	
+PATHWAY: L-lactaldehyde degradation (aerobic) INVOLVES: X527	Bacillus	
+PATHWAY: adenine and adenosine salvage VI INVOLVES: X555	X32342	Pseudomonas	human	Mycoplasma	Bacillus	Flavobacterium	
+PATHWAY: tetrapyrrole biosynthesis I (from glutamate) INVOLVES: X57	X32342	Bacillus	Pseudomonas	
+PATHWAY: reactive oxygen species degradation INVOLVES: X2127	X27727	human	
+PATHWAY: superpathway of butirocin biosynthesis INVOLVES: X528	X53	X1494	X57	Bacillus	
+PATHWAY: L-ornithine biosynthesis II INVOLVES: X57	X528	human	
+PATHWAY: adenine and adenosine salvage I INVOLVES: X32342	X555	Pseudomonas	human	Mycoplasma	Bacillus	Flavobacterium	
+PATHWAY: sucrose degradation V (sucrose &alpha;-glucosidase) INVOLVES: X1519	X48195	human	
+PATHWAY: cob(II)yrinate a,c-diamide biosynthesis II (late cobalt incorporation) INVOLVES: X53	X57	Pseudomonas	Streptococcus	Rhizobium	Micrococcus	
+PATHWAY: choline degradation I INVOLVES: X15506	X3141	Pseudomonas	Arthrobacter	human	Bacillus	Micrococcus	
+PATHWAY: meta cleavage pathway of aromatic compounds INVOLVES: X15778	Pseudomonas	Burkholderia	Acinetobacter	Ralstonia	Alcaligenes	Neisseria	Micrococcus	Moraxella	
+PATHWAY: L-asparagine biosynthesis I INVOLVES: X53	X57	X443	X512	X32342	human	
+PATHWAY: L-glutamine biosynthesis I INVOLVES: X57	X53	Ruminococcus	human	
+PATHWAY: glycine betaine biosynthesis I (Gram-negative bacteria) INVOLVES: X3141	X15506	Halomonas	
+PATHWAY: mitochondrial L-carnitine shuttle INVOLVES: X32198	human	
+PATHWAY: novobiocin biosynthesis INVOLVES: X1299	X32342	Actinomyces	Streptomyces	
+PATHWAY: <I>myo</I>-inositol degradation I INVOLVES: X1124	Arthrobacter	Enterobacter	Bacillus	Lactobacillus	Micrococcus	Rhizobium	Microbacterium	Corynebacterium	
+PATHWAY: catecholamine biosynthesis INVOLVES: X32354	X1299	human	
+PATHWAY: L-lysine degradation IV INVOLVES: X1437	X528	X57	X396	X18319	X1301	Bacillus	Pseudomonas	Arthrobacter	
+PATHWAY: homolactic fermentation INVOLVES: X527	Enterococcus	human	Bacillus	Streptococcus	Lactobacillus	Micrococcus	
+PATHWAY: dTDP-D-ravidosamine and dTDP-4-acetyl-D-ravidosamine biosynthesis INVOLVES: X528	X57	Streptomyces	
+PATHWAY: quinoxaline-2-carboxylate biosynthesis INVOLVES: X54	X1648	X32342	Streptomyces	
+PATHWAY: fatty acid &alpha;-oxidation III INVOLVES: X1510	X32342	human	
+PATHWAY: superpathway of dTDP-glucose-derived O-antigen building blocks biosynthesis INVOLVES: X528	X57	Aggregatibacter	Actinobacillus	Haemophilus	
+PATHWAY: UMP biosynthesis III INVOLVES: X1505	X443	X53	X57	Bacillus	Streptococcus	Lactobacillus	
+PATHWAY: L-tyrosine degradation I INVOLVES: X528	X1299	X57	X1643	Pseudomonas	Arthrobacter	human	Bacillus	Micrococcus	
+PATHWAY: D-myo-inositol (1,4,5)-trisphosphate degradation INVOLVES: X1124	human	

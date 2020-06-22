@@ -1,0 +1,3 @@
+hostname	castalia.cs.fiu.edu
+csvfile	plugins/CSVPathways/example/abund.csv
+mapping	plugins/CSVPathways/example/mapping.withmanualadditions.sorted.txt

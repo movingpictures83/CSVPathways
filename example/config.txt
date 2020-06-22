@@ -1,0 +1,2 @@
+Prefix plugins/CSVPathways/example
+Plugin CSVPathways inputfile parameters.txt outputfile pathways
