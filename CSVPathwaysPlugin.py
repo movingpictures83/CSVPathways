@@ -20,7 +20,7 @@ class CSVPathwaysPlugin:
       for line in params:
          contents = line.strip().split('\t')
          self.parameters[contents[0]] = contents[1]
-      config.set_host_name('castalia.cs.fiu.edu')
+      config.set_host_name(self.parameters['hostname'])
       self.meta = pythoncyc.select_organism('meta')
       abundancefile = open(self.parameters['csvfile'], 'r')
       mappingfile = open(self.parameters['mapping'], 'r')
