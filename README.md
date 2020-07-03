@@ -2,7 +2,8 @@
 # Language: Python
 # Input: TXT
 # Output: PREFIX
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: PythonCyc 1.0
 
 PluMA plugin to take a multiomics CSV file and query the PathwayTools
 (Karp et al, 2015) database to retrieve a list of all metabolic pathways
